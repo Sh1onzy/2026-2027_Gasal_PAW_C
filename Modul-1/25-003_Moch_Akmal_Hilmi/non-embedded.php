@@ -10,5 +10,6 @@
 </html>
 
 <?php 
+// Ini adalah non-embedded script
 echo "<h3>HELLO WORLD</h3>"; 
 ?>
